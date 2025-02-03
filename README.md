@@ -1,2 +1,2 @@
 # WebT_assgn1
-First project using as frontend
+First project using as front-end
